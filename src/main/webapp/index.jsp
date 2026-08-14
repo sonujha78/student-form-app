@@ -52,3 +52,4 @@
 </body>
 </html>
 <!-- v1.1 -->
+<-  — Angular dashboard ( Nginx + Ingress webhook test v1.2 -->
